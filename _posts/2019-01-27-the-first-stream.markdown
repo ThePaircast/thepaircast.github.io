@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2017-08-05 11:11:00
-categories: hello-world
+title:  "Our First Stream"
+date:   2019-01-27 19:12:00
+categories: post-stream-description
 ---
 
-Test post to set up the initial site. A real post to come soon.
+{% include youtubePlayer.html id="d2Su6qqJRhM" %}
+
+This morning Cameron and I finished out first stream. We started out our first
+project of working on rebuilding [FactoryBot](https://github.com/thoughtbot/factory_bot) by deleting all the code and letting the tests fully drive out the implementation.
