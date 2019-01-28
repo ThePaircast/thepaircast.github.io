@@ -8,4 +8,5 @@ open source projects.
 
 ## Cast
 
-[Scott Werner](https://www.scottwernerd.com) - CTO at [Sayspring](https://www.sayspring.com)
+[Scott Werner](https://www.scottwernerd.com)
+[Cameron Cundiff](https://www.ckundo.com/)
