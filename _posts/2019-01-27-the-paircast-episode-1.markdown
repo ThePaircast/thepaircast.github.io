@@ -11,19 +11,18 @@ Special thank you to our friends at [TWOSENSE.AI](https://www.twosense.ai) (Who 
 <hr/>
 
 <br/>
-<br/>
 
 In the first Paircast episode, Cameron and Scott begin rewriting Factory Bot.
 The idea came from talking about a practice in classical art where students
 recreate paintings by the great masters. We figured a great parallel in software
 would be to take well tested and popular open source libraries written by
 masters in our industry, and try to rewrite them using only the tests to guide
-us.<br/><br/>
+us.<br/>
 
 We chose [FactoryBot](https://github.com/thoughtbot/factory_bot) as our first
 project since it fits all those criteria. From how familiar we both are with
 Thoughtbot, we're confident that there will be comprehensive test coverage that
-will enable us to eventually complete this series.<br/><br/>
+will enable us to eventually complete this series.<br/>
 
 To start out, we made sure our machine was set up correctly to run the tests,
 and then deleted the `lib/` directory. Join us as we let the tests drive out a
