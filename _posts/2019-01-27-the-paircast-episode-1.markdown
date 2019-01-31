@@ -12,7 +12,7 @@ Special thank you to our friends at [TWOSENSE.AI](https://www.twosense.ai) (Who 
 
 <br/>
 
-In the first Paircast episode, Cameron and Scott begin rewriting Factory Bot.
+In the first Paircast episode, Cameron and Scott begin rewriting FactoryBot.
 The idea came from talking about a practice in classical art where students
 recreate paintings by the great masters. We figured a great parallel in software
 would be to take well tested and popular open source libraries written by
@@ -21,7 +21,7 @@ us.<br/>
 
 We chose [FactoryBot](https://github.com/thoughtbot/factory_bot) as our first
 project since it fits all those criteria. From how familiar we both are with
-Thoughtbot, we're confident that there will be comprehensive test coverage that
+thoughtbot, we're confident that there will be comprehensive test coverage that
 will enable us to eventually complete this series.<br/>
 
 To start out, we made sure our machine was set up correctly to run the tests,
@@ -29,7 +29,7 @@ and then deleted the `lib/` directory. Join us as we let the tests drive out a
 new implementation.
 
 <h3>Links from the stream:</h3>
-[Thoughtbot](https://thoughtbot.com/)<br/>
+[thoughtbot](https://thoughtbot.com/)<br/>
 [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
 <br/>
 <hr/>
