@@ -36,6 +36,6 @@ new implementation.
 <br/>
 We would love feedback on ways we can improve the stream. You can reach us on
 <br/>
-Twitter [@thepaircast](https://twitter.com/thepaircast) or by email at<br/>
+Twitter [@thepaircast](https://twitter.com/thepaircast)<br/> or by email at<br/>
 [scott@thepaircast.com](mailto:scott@thepaircast.com) and
 [cameron@thepaircast.com](mailto:cameron@thepaircast.com).
