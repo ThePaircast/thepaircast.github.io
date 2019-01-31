@@ -8,6 +8,5 @@ open source projects.
 
 ## Cast
 
-[Scott Werner](https://www.scottwernerd.com)
-
-[Cameron Cundiff](https://www.ckundo.com/)
+[Scott Werner](https://www.scottwernerd.com) [@scottwernerd](https://twitter.com/scottwernerd)<br/>
+[Cameron Cundiff](https://www.ckundo.com/) [@ckundo](https://twitter.com/ckundo)
