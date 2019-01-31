@@ -8,7 +8,7 @@ categories: post-stream-description
 {% include youtubePlayer.html id="d2Su6qqJRhM" %}
 
 Special thank you to our friends at [TWOSENSE.AI](https://www.twosense.ai) (Who are [hiring](https://www.twosense.ai/jobs/)!) for giving us a place to record.
-We've been putting this off for too long, and the space is perfect. Thank you!
+We've been putting this off for too long, and the space is perfect.
 <br/>
 <br/>
 
