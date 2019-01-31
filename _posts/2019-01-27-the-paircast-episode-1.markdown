@@ -8,12 +8,26 @@ categories: post-stream-description
 {% include youtubePlayer.html id="d2Su6qqJRhM" %}
 
 Special thank you to our friends at [TWOSENSE.AI](https://www.twosense.ai) (Who are [hiring](https://www.twosense.ai/jobs/)!) for giving us a place to record.
-We've been putting this off for too long, and the space is perfect.
+<hr/>
+
 <br/>
 <br/>
 
-This morning Cameron and I finished out first stream. We started out our first project of working on rebuilding
-[FactoryBot](https://github.com/thoughtbot/factory_bot) by deleting all the code and letting the tests fully drive out the implementation.
+In the first Paircast episode, Cameron and Scott begin rewriting Factory Bot.
+The idea came from talking about a practice in classical art where students
+recreate paintings by the great masters. We figured a great parallel in software
+would be to take well tested and popular open source libraries written by
+masters in our industry, and try to rewrite them using only the tests to guide
+us.<br/><br/>
+
+We chose [FactoryBot](https://github.com/thoughtbot/factory_bot) as our first
+project since it fits all those criteria. From how familiar we both are with
+Thoughtbot, we're confident that there will be comprehensive test coverage that
+will enable us to eventually complete this series.<br/><br/>
+
+To start out, we made sure our machine was set up correctly to run the tests,
+and then deleted the `lib/` directory. Join us as we let the tests drive out a
+new implementation.
 
 <h3>Links from the stream:</h3>
 [Thoughtbot](https://thoughtbot.com/)<br/>
